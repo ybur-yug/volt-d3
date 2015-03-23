@@ -1,6 +1,7 @@
-# Volt::D3
+# Volt-D3
 
-TODO: Write a gem description
+<a href="http://d3js.org"><img src="http://d3js.org/logo.svg"></a>
+This component includes D3.js in Volt's assets when added
 
 ## Installation
 
@@ -16,9 +17,17 @@ Or install it yourself as:
 
     $ gem install volt-d3
 
-## Usage
+Proceed to add it to `dependencies.rb`
 
-TODO: Write usage instructions here
+```RUBY
+component 'd3'
+```
+
+## Usage
+Use the standard D3.js API in the FE and you will have access to all endpoints
+
+## TODO
+A proper, eloquent Ruby wrapper
 
 ## Contributing
 
