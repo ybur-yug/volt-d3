@@ -1,6 +1,7 @@
 # Volt-D3
 
 <a href="http://d3js.org"><img src="http://d3js.org/logo.svg"></a>
+
 This component includes D3.js in Volt's assets when added
 
 ## Installation
