@@ -27,6 +27,8 @@ component 'd3'
 ## Usage
 Use the standard D3.js API in the FE and you will have access to all endpoints
 
+There is an example applicatoin that draws a circle that fills with a new color when moused over [here](example).
+
 ## TODO
 A proper, eloquent Ruby wrapper
 
