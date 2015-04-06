@@ -30,11 +30,11 @@ Use the standard D3.js API in the FE and you will have access to all endpoints
 There is an example applicatoin that draws a circle that fills with a new color when moused over [here](example).
 
 ## TODO
-A proper, eloquent Ruby wrapper
+I am currently working on getting proper Ruby bindings for the larger API functionalities.
 
 ## Contributing
 
-1. Fork it ( http://github.com/[my-github-username]/volt-d3/fork )
+1. Fork it ( http://github.com/rhgraysonii/volt-d3/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
