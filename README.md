@@ -1,5 +1,7 @@
 # Volt-D3
 
+# NOTE: This software is currently deprecated outside of the inclusion of D3 source
+
 <a href="http://d3js.org"><img src="http://d3js.org/logo.svg"></a>
 
 This component includes D3.js in Volt's assets when added
